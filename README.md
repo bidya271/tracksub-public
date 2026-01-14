@@ -1,7 +1,10 @@
 # TrackSub
+Web App: https://tracksub.app
+iOS App: https://apps.apple.com/in/app/tracksubapp/id6757342390
+
 
 **Never Miss a Subscription Payment Again**  
-TrackSub is an all-in-one subscription tracking platform that helps individuals and businesses manage recurring charges, receive smart reminders before renewals, analyze spending, and reclaim control of their finances.
+TrackSub is an all-in-one subscription tracking platform that helps individuals and businesses manage recurring charges, receive smart reminders before renewals, analyze spending and reclaim control of their finances.
 
 ---
 
@@ -48,10 +51,10 @@ TrackSub offers flexible plans:
 
 | Plan       | Price           | Features |
 |------------|----------------|----------|
-| Free       | $0/month        | Track up to 10 subscriptions, basic reminders and analytics :contentReference[oaicite:8]{index=8} |
+| Free       | $0/month        | Track up to 10 subscriptions, basic reminders and analytics |
 | Premium    | ~$9.99/month    | Unlimited subscriptions, subscription groups, payment method management, dedicated support  |
 
-*Prices are subject to change; verify on the official site.* :contentReference[oaicite:10]{index=10}
+*Prices are subject to change; verify on the official site.*
 
 ---
 
@@ -61,41 +64,39 @@ Get TrackSub on Android or access the web version:
 
 - **Android**: Available on Google Play  
 - **Web App**: Accessible through your browser  
-- **iOS**: Coming soon :contentReference[oaicite:11]{index=11}
+- **iOS**: Coming soon 
 
 ---
 
 ## 📋 Example Workflow
 
-1. **Create an Account**  
-   Sign up for free to begin tracking subscriptions. :contentReference[oaicite:12]{index=12}
+1. **Create an Account** 
 
 2. **Add Subscriptions**  
-   Enter details like service name, amount, and renewal frequency. :contentReference[oaicite:13]{index=13}
+   Enter details like service name, amount and renewal frequency.
 
 3. **Configure Alerts**  
-   Set email or Slack reminders for upcoming payments. :contentReference[oaicite:14]{index=14}
+   Set email or Slack reminders for upcoming payments.
 
 4. **Review Analytics**  
-   Use insights to decide whether to retain, cancel, or downgrade services. :contentReference[oaicite:15]{index=15}
+   Use insights to decide whether to retain, cancel, or downgrade services.
 
 ---
 
 ## 🔐 Privacy & Legal
 
-TrackSub’s privacy, terms, and refund policies are accessible through the official site. :contentReference[oaicite:16]{index=16}
-
+TrackSub’s privacy, terms and refund policies are accessible through the official site.
 ---
 
 ## 📞 Contact & Support
 
-For questions or feedback, visit the **Contact** page on the TrackSub website or access the Help Center for how-to guides and support articles. :contentReference[oaicite:17]{index=17}
+For questions or feedback, visit the **Contact** page on the TrackSub website or access the Help Center for how-to guides and support articles. 
 
 ---
 
 ## ⭐ Contributing
 
-TrackSub is a proprietary platform, so contributions are managed through official channels. For feature requests or support issues, contact the TrackSub team directly. :contentReference[oaicite:18]{index=18}
+TrackSub is a proprietary platform, so contributions are managed through official channels. For feature requests or support issues, contact the TrackSub team directly. 
 
 ---
 
