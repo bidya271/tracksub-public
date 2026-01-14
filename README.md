@@ -1,13 +1,13 @@
 # TrackSub
 
 **Never Miss a Subscription Payment Again**  
-TrackSub is an all-in-one subscription tracking platform that helps individuals and businesses manage recurring charges, receive smart reminders before renewals, analyze spending, and reclaim control of their finances. :contentReference[oaicite:0]{index=0}
+TrackSub is an all-in-one subscription tracking platform that helps individuals and businesses manage recurring charges, receive smart reminders before renewals, analyze spending, and reclaim control of their finances.
 
 ---
 
 ## 🧠 Overview
 
-Managing multiple subscriptions can quickly become overwhelming and expensive. TrackSub solves this by centralizing all subscriptions in one dashboard, helping you track spending trends, upcoming renewal dates, and avoid unwanted charges. :contentReference[oaicite:1]{index=1}
+Managing multiple subscriptions can quickly become overwhelming and expensive. TrackSub solves this by centralizing all subscriptions in one dashboard, helping you track spending trends, upcoming renewal dates and avoid unwanted charges.
 
 ---
 
@@ -16,19 +16,19 @@ Managing multiple subscriptions can quickly become overwhelming and expensive. T
 TrackSub provides the following core functionalities:
 
 ### Subscription Management  
-Add and organize all your recurring subscriptions — from streaming services to business software — in one place. :contentReference[oaicite:2]{index=2}
+Add and organize all your recurring subscriptions — from streaming services to business software — in one place. 
 
 ### Smart Reminders  
-Receive notifications **before** renewals so you never get charged unexpectedly. :contentReference[oaicite:3]{index=3}
+Receive notifications **before** renewals so you never get charged unexpectedly.
 
 ### Spending Analytics & Insights  
-Visualize your subscription expenses by category and over time to understand where your money goes. :contentReference[oaicite:4]{index=4}
+Visualize your subscription expenses by category and over time to understand where your money goes.
 
 ### Renewal Timeline  
-See upcoming renewal dates at a glance with an intuitive timeline. :contentReference[oaicite:5]{index=5}
+See upcoming renewal dates at a glance with an intuitive timeline. 
 
 ### Multi-Platform Support  
-Access TrackSub as a **Web App** and download the Android mobile app; iOS support is coming soon. :contentReference[oaicite:6]{index=6}
+Access TrackSub as a **Web App** and download the iOS mobile app; Android support is coming soon.
 
 ---
 
@@ -38,7 +38,7 @@ Access TrackSub as a **Web App** and download the Android mobile app; iOS suppor
 - **Stay on budget** by analyzing subscription spend  
 - **Organize subscriptions** with categories and tags  
 - **View all upcoming renewals** for better planning  
-- **Support for multiple currencies** (web version) :contentReference[oaicite:7]{index=7}
+- **Support for multiple currencies** (web version) 
 
 ---
 
@@ -49,7 +49,7 @@ TrackSub offers flexible plans:
 | Plan       | Price           | Features |
 |------------|----------------|----------|
 | Free       | $0/month        | Track up to 10 subscriptions, basic reminders and analytics :contentReference[oaicite:8]{index=8} |
-| Premium    | ~$9.99/month    | Unlimited subscriptions, subscription groups, payment method management, dedicated support :contentReference[oaicite:9]{index=9} |
+| Premium    | ~$9.99/month    | Unlimited subscriptions, subscription groups, payment method management, dedicated support  |
 
 *Prices are subject to change; verify on the official site.* :contentReference[oaicite:10]{index=10}
 
